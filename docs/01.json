@@ -1,0 +1,1674 @@
+{
+  "message": "success",
+  "data": {
+    "has_more": true,
+    "tip": "20条新内容",
+    "has_new_message": true,
+    "max_time": 1464331989.8100002,
+    "min_time": 1464331990,
+    "data": [
+      {
+        "group": {
+          "text": "我一哥们儿有个妹妹20来岁长的挺漂亮，昨天第一次去他家 是他妹妹开的门，我故作古人很绅士说：姑娘你好，请问你兄长在哪？她愣了一会，啪！给了我一耳光就把门关上了！妈的，今早醒来我还合计她为啥打我呢？",
+          "dislike_reason": [
+            {
+              "type": 1,
+              "id": 352,
+              "title": "语言"
+            },
+            {
+              "type": 2,
+              "id": 1,
+              "title": "吧:内涵段子"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 4148389507,
+              "title": "作者:牛_牛的闪电"
+            }
+          ],
+          "create_time": 1461812087,
+          "id": 6392305141,
+          "favorite_count": 1203,
+          "go_detail_count": 35907,
+          "user_favorite": 0,
+          "share_type": 1,
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/6392305141/?iid=2767929313&app=joke_essay",
+          "label": 1,
+          "content": "我一哥们儿有个妹妹20来岁长的挺漂亮，昨天第一次去他家 是他妹妹开的门，我故作古人很绅士说：姑娘你好，请问你兄长在哪？她愣了一会，啪！给了我一耳光就把门关上了！妈的，今早醒来我还合计她为啥打我呢？",
+          "comment_count": 437,
+          "id_str": "6392305141",
+          "media_type": 0,
+          "share_count": 810,
+          "type": 3,
+          "status": 112,
+          "has_comments": 1,
+          "user_bury": 0,
+          "status_desc": "热门投稿",
+          "user": {
+            "user_id": 4148389507,
+            "name": "牛_牛的闪电",
+            "followings": 26,
+            "ugc_count": 11,
+            "avatar_url": "http://p3.pstatp.com/thumb/411000e90b298dca29d",
+            "followers": 17,
+            "is_following": false,
+            "user_verified": false
+          },
+          "user_digg": 0,
+          "online_time": 1461812087,
+          "category_name": "内涵段子",
+          "category_visible": true,
+          "bury_count": 1741,
+          "is_anonymous": false,
+          "repin_count": 1203,
+          "digg_count": 10935,
+          "has_hot_comments": 1,
+          "allow_dislike": true,
+          "user_repin": 0,
+          "activity": {},
+          "group_id": 6392305141,
+          "category_id": 1
+        },
+        "comments": [
+          {
+            "status": 5,
+            "user_profile_url": "",
+            "is_digg": 0,
+            "user_id": 4081922046,
+            "description": "在此郑重声明玩段子不可以玩段子之名人人自卫 如有违反者四大皆空",
+            "bury_count": 0,
+            "avatar_url": "http://p3.pstatp.com/thumb/4120008b9e0688c9b8c",
+            "text": "你怎么不说你兄长在哪？鄙人可否一见？日后必有重谢！",
+            "comment_id": 6392538103,
+            "user_verified": false,
+            "digg_count": 11978,
+            "user_profile_image_url": "http://p3.pstatp.com/thumb/4120008b9e0688c9b8c",
+            "platform_id": "feifei",
+            "platform": "feifei",
+            "create_time": 1461814650,
+            "user_digg": 0,
+            "group_id": 6392305141,
+            "user_name": "口日昌晶呢",
+            "id": 6392538103,
+            "user_bury": 0
+          }
+        ],
+        "type": 1,
+        "display_time": 1464331990,
+        "online_time": 1464331990
+      },
+      {
+        "group": {
+          "text": "姐姐晚上加班，家里就我和姐夫，我们一起偷偷开心了好久，可没想到的是，半道上门铃响了，我一开门，姐姐站在门外，“我提前回来了，怎么样？吃惊了吧？”我一听，坏了，她不会知道了吧，于是立马解释，“没，还没吃呢”",
+          "dislike_reason": [
+            {
+              "type": 2,
+              "id": 80,
+              "title": "吧:来自世界的恶意"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 6242016815,
+              "title": "作者:濛濛馨"
+            }
+          ],
+          "create_time": 1464325073,
+          "id": 6616913208,
+          "favorite_count": 0,
+          "go_detail_count": 2,
+          "user_favorite": 0,
+          "share_type": 1,
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/6616913208/?iid=2767929313&app=joke_essay",
+          "label": 4,
+          "content": "姐姐晚上加班，家里就我和姐夫，我们一起偷偷开心了好久，可没想到的是，半道上门铃响了，我一开门，姐姐站在门外，“我提前回来了，怎么样？吃惊了吧？”我一听，坏了，她不会知道了吧，于是立马解释，“没，还没吃呢”",
+          "comment_count": 0,
+          "id_str": "6616913208",
+          "media_type": 0,
+          "share_count": 0,
+          "type": 3,
+          "status": 102,
+          "has_comments": 0,
+          "user_bury": 0,
+          "status_desc": "已发表",
+          "user": {
+            "user_id": 6242016815,
+            "name": "濛濛馨",
+            "followings": 4,
+            "ugc_count": 45,
+            "avatar_url": "http://p3.pstatp.com/thumb/2b70022589bc60f1ea5",
+            "followers": 337,
+            "is_following": false,
+            "user_verified": false
+          },
+          "user_digg": 0,
+          "online_time": 1464325073,
+          "category_name": "来自世界的恶意",
+          "category_visible": true,
+          "bury_count": 0,
+          "is_anonymous": false,
+          "repin_count": 0,
+          "digg_count": 72,
+          "has_hot_comments": 0,
+          "allow_dislike": true,
+          "user_repin": 0,
+          "activity": {},
+          "group_id": 6616913208,
+          "category_id": 80
+        },
+        "comments": [],
+        "type": 1,
+        "display_time": 1464331989.99,
+        "online_time": 1464331989.99
+      },
+      {
+        "group": {
+          "text": "老师在黑板上写：mp,问什么意思？\n小明：马屁！\n老师:那pmp呢？\n小明:拍马屁!\n老师:mpmp?\n小明:猛拍马屁！\n老师:pmpmp呢？\n小明:拼命拍马屁！\n老师:gcq！",
+          "dislike_reason": [
+            {
+              "type": 1,
+              "id": 474,
+              "title": "小明"
+            },
+            {
+              "type": 2,
+              "id": 1,
+              "title": "吧:内涵段子"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 6485205438,
+              "title": "作者:我还是要操"
+            }
+          ],
+          "create_time": 1462847890,
+          "id": 6492754011,
+          "favorite_count": 559,
+          "go_detail_count": 38873,
+          "user_favorite": 0,
+          "share_type": 1,
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/6492754011/?iid=2767929313&app=joke_essay",
+          "label": 1,
+          "content": "老师在黑板上写：mp,问什么意思？\n小明：马屁！\n老师:那pmp呢？\n小明:拍马屁!\n老师:mpmp?\n小明:猛拍马屁！\n老师:pmpmp呢？\n小明:拼命拍马屁！\n老师:gcq！",
+          "comment_count": 630,
+          "id_str": "6492754011",
+          "media_type": 0,
+          "share_count": 855,
+          "type": 3,
+          "status": 112,
+          "has_comments": 1,
+          "user_bury": 0,
+          "status_desc": "热门投稿",
+          "user": {
+            "user_id": 6485205438,
+            "name": "我还是要操",
+            "followings": 0,
+            "ugc_count": 14,
+            "avatar_url": "http://p2.pstatp.com/thumb/411000f508447afe56f",
+            "followers": 5,
+            "is_following": false,
+            "user_verified": false
+          },
+          "user_digg": 0,
+          "online_time": 1462847890,
+          "category_name": "内涵段子",
+          "category_visible": true,
+          "bury_count": 1210,
+          "is_anonymous": false,
+          "repin_count": 559,
+          "digg_count": 6597,
+          "has_hot_comments": 1,
+          "allow_dislike": true,
+          "user_repin": 0,
+          "activity": {},
+          "group_id": 6492754011,
+          "category_id": 1
+        },
+        "comments": [
+          {
+            "status": 5,
+            "user_profile_url": "",
+            "is_digg": 0,
+            "user_id": 6371533016,
+            "description": "",
+            "bury_count": 1,
+            "avatar_url": "http://p3.pstatp.com/thumb/202000b0475cb2555c4",
+            "text": "小明：滚出去",
+            "comment_id": 6493986111,
+            "user_verified": false,
+            "digg_count": 6210,
+            "user_profile_image_url": "http://p3.pstatp.com/thumb/202000b0475cb2555c4",
+            "platform_id": "feifei",
+            "platform": "feifei",
+            "create_time": 1462852569,
+            "user_digg": 0,
+            "group_id": 6492754011,
+            "user_name": "用户86595496",
+            "id": 6493986111,
+            "user_bury": 0
+          }
+        ],
+        "type": 1,
+        "display_time": 1464331989.98,
+        "online_time": 1464331989.98
+      },
+      {
+        "group": {
+          "text": "以后决定金盆洗屌，不干了，在我面前脱衣服，绝对不硬，不信你试试看 硬了___",
+          "dislike_reason": [
+            {
+              "type": 2,
+              "id": 1,
+              "title": "吧:内涵段子"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 4315091657,
+              "title": "作者:百撕不得qi姐"
+            }
+          ],
+          "create_time": 1464262696,
+          "id": 6611510053,
+          "favorite_count": 1,
+          "go_detail_count": 535,
+          "user_favorite": 0,
+          "share_type": 1,
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/6611510053/?iid=2767929313&app=joke_essay",
+          "label": 4,
+          "content": "以后决定金盆洗屌，不干了，在我面前脱衣服，绝对不硬，不信你试试看 硬了___",
+          "comment_count": 27,
+          "id_str": "6611510053",
+          "media_type": 0,
+          "share_count": 28,
+          "type": 3,
+          "status": 102,
+          "has_comments": 0,
+          "user_bury": 0,
+          "status_desc": "已发表",
+          "user": {
+            "user_id": 4315091657,
+            "name": "百撕不得qi姐",
+            "followings": 4,
+            "ugc_count": 2,
+            "avatar_url": "http://p3.pstatp.com/thumb/2171/6003290650",
+            "followers": 0,
+            "is_following": false,
+            "user_verified": false
+          },
+          "user_digg": 0,
+          "online_time": 1464262696,
+          "category_name": "内涵段子",
+          "category_visible": true,
+          "bury_count": 25,
+          "is_anonymous": false,
+          "repin_count": 1,
+          "digg_count": 72,
+          "has_hot_comments": 0,
+          "allow_dislike": true,
+          "user_repin": 0,
+          "activity": {},
+          "group_id": 6611510053,
+          "category_id": 1
+        },
+        "comments": [],
+        "type": 1,
+        "display_time": 1464331989.97,
+        "online_time": 1464331989.97
+      },
+      {
+        "group": {
+          "text": "老婆进了家门就进浴室洗澡，洗完后让老公拿浴巾，老公说：媳妇，是不是你们老板送你回来的。媳妇惊讶的说：你咋知道？老公说：看你屁股上有保时捷标志，你说是不是很厉害啊！",
+          "dislike_reason": [
+            {
+              "type": 2,
+              "id": 80,
+              "title": "吧:来自世界的恶意"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 3232360555,
+              "title": "作者:可爱的傻妞是你曾经的爱"
+            }
+          ],
+          "create_time": 1464325730,
+          "id": 6617083057,
+          "favorite_count": 0,
+          "go_detail_count": 10,
+          "user_favorite": 0,
+          "share_type": 1,
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/6617083057/?iid=2767929313&app=joke_essay",
+          "label": 4,
+          "content": "老婆进了家门就进浴室洗澡，洗完后让老公拿浴巾，老公说：媳妇，是不是你们老板送你回来的。媳妇惊讶的说：你咋知道？老公说：看你屁股上有保时捷标志，你说是不是很厉害啊！",
+          "comment_count": 1,
+          "id_str": "6617083057",
+          "media_type": 0,
+          "share_count": 1,
+          "type": 3,
+          "status": 102,
+          "has_comments": 0,
+          "user_bury": 0,
+          "status_desc": "已发表",
+          "user": {
+            "user_id": 3232360555,
+            "name": "可爱的傻妞是你曾经的爱",
+            "followings": 23,
+            "ugc_count": 4911,
+            "avatar_url": "http://p1.pstatp.com/thumb/1158/7782962878",
+            "followers": 54626,
+            "is_following": false,
+            "user_verified": false
+          },
+          "user_digg": 0,
+          "online_time": 1464325730,
+          "category_name": "来自世界的恶意",
+          "category_visible": true,
+          "bury_count": 10,
+          "is_anonymous": false,
+          "repin_count": 0,
+          "digg_count": 81,
+          "has_hot_comments": 0,
+          "allow_dislike": true,
+          "user_repin": 0,
+          "activity": {},
+          "group_id": 6617083057,
+          "category_id": 80
+        },
+        "comments": [],
+        "type": 1,
+        "display_time": 1464331989.96,
+        "online_time": 1464331989.96
+      },
+      {
+        "group": {
+          "text": "老师告诉学生： “以后写文章，不要自称笔者，因为现在，没有人用笔。” 学生问： “那应该叫什么？” 老师说：“叫键人。” 学生又问：“哦，那些只用鼠标的呢？” 老师说：“叫鼠辈。” 学生再问：“可是，现在大家，都用智能手机了，都是触摸式的，那应该叫什么呢？” 老师说：“叫触生！",
+          "dislike_reason": [
+            {
+              "type": 1,
+              "id": 319,
+              "title": "恶搞"
+            },
+            {
+              "type": 2,
+              "id": 1,
+              "title": "吧:内涵段子"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 6525732349,
+              "title": "作者:颩壹樣哋莮子"
+            }
+          ],
+          "create_time": 1463971423,
+          "id": 6589899228,
+          "favorite_count": 764,
+          "go_detail_count": 6463,
+          "user_favorite": 0,
+          "share_type": 1,
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/6589899228/?iid=2767929313&app=joke_essay",
+          "label": 1,
+          "content": "老师告诉学生： “以后写文章，不要自称笔者，因为现在，没有人用笔。” 学生问： “那应该叫什么？” 老师说：“叫键人。” 学生又问：“哦，那些只用鼠标的呢？” 老师说：“叫鼠辈。” 学生再问：“可是，现在大家，都用智能手机了，都是触摸式的，那应该叫什么呢？” 老师说：“叫触生！",
+          "comment_count": 160,
+          "id_str": "6589899228",
+          "media_type": 0,
+          "share_count": 606,
+          "type": 3,
+          "status": 112,
+          "has_comments": 1,
+          "user_bury": 0,
+          "status_desc": "热门投稿",
+          "user": {
+            "user_id": 6525732349,
+            "name": "颩壹樣哋莮子",
+            "followings": 0,
+            "ugc_count": 3,
+            "avatar_url": "http://p3.pstatp.com/thumb/570000a119627aa9c84",
+            "followers": 5,
+            "is_following": false,
+            "user_verified": false
+          },
+          "user_digg": 0,
+          "online_time": 1464010491,
+          "category_name": "内涵段子",
+          "category_visible": true,
+          "bury_count": 691,
+          "is_anonymous": false,
+          "repin_count": 764,
+          "digg_count": 4289,
+          "has_hot_comments": 1,
+          "allow_dislike": true,
+          "user_repin": 0,
+          "activity": {},
+          "group_id": 6589899228,
+          "category_id": 1
+        },
+        "comments": [
+          {
+            "status": 5,
+            "user_profile_url": "",
+            "is_digg": 0,
+            "user_id": 4402968306,
+            "description": "",
+            "bury_count": 0,
+            "avatar_url": "",
+            "text": "这个是哪位触生发的？",
+            "comment_id": 6590773010,
+            "user_verified": false,
+            "digg_count": 7132,
+            "user_profile_image_url": "",
+            "platform_id": "feifei",
+            "platform": "feifei",
+            "create_time": 1463979578,
+            "user_digg": 0,
+            "group_id": 6589899228,
+            "user_name": "旷野孤狼1",
+            "id": 6590773010,
+            "user_bury": 0
+          }
+        ],
+        "type": 1,
+        "display_time": 1464331989.95,
+        "online_time": 1464331989.95
+      },
+      {
+        "group": {
+          "text": "男友巨懒，今天他洗完脚不想去倒水，端着盆子就往外泼，结果她忘了其实窗户没开着，水全喷他脸上了，男友淡定的来了句：卧槽，今天9级风吗？",
+          "dislike_reason": [
+            {
+              "type": 2,
+              "id": 80,
+              "title": "吧:来自世界的恶意"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 3232360555,
+              "title": "作者:可爱的傻妞是你曾经的爱"
+            }
+          ],
+          "create_time": 1464325862,
+          "id": 6616474622,
+          "favorite_count": 0,
+          "go_detail_count": 2,
+          "user_favorite": 0,
+          "share_type": 1,
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/6616474622/?iid=2767929313&app=joke_essay",
+          "label": 4,
+          "content": "男友巨懒，今天他洗完脚不想去倒水，端着盆子就往外泼，结果她忘了其实窗户没开着，水全喷他脸上了，男友淡定的来了句：卧槽，今天9级风吗？",
+          "comment_count": 0,
+          "id_str": "6616474622",
+          "media_type": 0,
+          "share_count": 0,
+          "type": 3,
+          "status": 102,
+          "has_comments": 0,
+          "user_bury": 0,
+          "status_desc": "已发表",
+          "user": {
+            "user_id": 3232360555,
+            "name": "可爱的傻妞是你曾经的爱",
+            "followings": 23,
+            "ugc_count": 4911,
+            "avatar_url": "http://p1.pstatp.com/thumb/1158/7782962878",
+            "followers": 54625,
+            "is_following": false,
+            "user_verified": false
+          },
+          "user_digg": 0,
+          "online_time": 1464325861,
+          "category_name": "来自世界的恶意",
+          "category_visible": true,
+          "bury_count": 11,
+          "is_anonymous": false,
+          "repin_count": 0,
+          "digg_count": 72,
+          "has_hot_comments": 0,
+          "allow_dislike": true,
+          "user_repin": 0,
+          "activity": {},
+          "group_id": 6616474622,
+          "category_id": 80
+        },
+        "comments": [],
+        "type": 1,
+        "display_time": 1464331989.94,
+        "online_time": 1464331989.94
+      },
+      {
+        "group": {
+          "text": "老师:为什么520除3无限循环？\n小新:因为爱情是容不下第三者的。\n小明:哪有，因为第三者是除不尽的……",
+          "dislike_reason": [
+            {
+              "type": 1,
+              "id": 336,
+              "title": "神一样的结局"
+            },
+            {
+              "type": 2,
+              "id": 1,
+              "title": "吧:内涵段子"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 3445980637,
+              "title": "作者:我是农村姑娘"
+            }
+          ],
+          "create_time": 1463640180,
+          "id": 6565838367,
+          "favorite_count": 875,
+          "go_detail_count": 8303,
+          "user_favorite": 0,
+          "share_type": 1,
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/6565838367/?iid=2767929313&app=joke_essay",
+          "label": 1,
+          "content": "老师:为什么520除3无限循环？\n小新:因为爱情是容不下第三者的。\n小明:哪有，因为第三者是除不尽的……",
+          "comment_count": 351,
+          "id_str": "6565838367",
+          "media_type": 0,
+          "share_count": 967,
+          "type": 3,
+          "status": 112,
+          "has_comments": 0,
+          "user_bury": 0,
+          "status_desc": "热门投稿",
+          "user": {
+            "user_id": 3445980637,
+            "name": "我是农村姑娘",
+            "followings": 13,
+            "ugc_count": 50,
+            "avatar_url": "http://p2.pstatp.com/thumb/6cb0000aae770553b84",
+            "followers": 64,
+            "is_following": false,
+            "user_verified": false
+          },
+          "user_digg": 0,
+          "online_time": 1463640180,
+          "category_name": "内涵段子",
+          "category_visible": true,
+          "bury_count": 729,
+          "is_anonymous": false,
+          "repin_count": 875,
+          "digg_count": 5655,
+          "has_hot_comments": 1,
+          "allow_dislike": true,
+          "user_repin": 0,
+          "activity": {},
+          "group_id": 6565838367,
+          "category_id": 1
+        },
+        "comments": [],
+        "type": 1,
+        "display_time": 1464331989.93,
+        "online_time": 1464331989.93
+      },
+      {
+        "group": {
+          "text": "晚上回家二货老公问我买了什么菜，我摸了摸他的小弟弟笑着说：你猜猜？他邪恶的说：莫非是黄瓜、胡萝卜...打开一看是“金针菇”....结果，他好几天都不理我了！！",
+          "dislike_reason": [
+            {
+              "type": 2,
+              "id": 80,
+              "title": "吧:来自世界的恶意"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 3232360555,
+              "title": "作者:可爱的傻妞是你曾经的爱"
+            }
+          ],
+          "create_time": 1464325548,
+          "id": 6616522575,
+          "favorite_count": 0,
+          "go_detail_count": 3,
+          "user_favorite": 0,
+          "share_type": 1,
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/6616522575/?iid=2767929313&app=joke_essay",
+          "label": 4,
+          "content": "晚上回家二货老公问我买了什么菜，我摸了摸他的小弟弟笑着说：你猜猜？他邪恶的说：莫非是黄瓜、胡萝卜...打开一看是“金针菇”....结果，他好几天都不理我了！！",
+          "comment_count": 0,
+          "id_str": "6616522575",
+          "media_type": 0,
+          "share_count": 0,
+          "type": 3,
+          "status": 102,
+          "has_comments": 0,
+          "user_bury": 0,
+          "status_desc": "已发表",
+          "user": {
+            "user_id": 3232360555,
+            "name": "可爱的傻妞是你曾经的爱",
+            "followings": 23,
+            "ugc_count": 4911,
+            "avatar_url": "http://p1.pstatp.com/thumb/1158/7782962878",
+            "followers": 54626,
+            "is_following": false,
+            "user_verified": false
+          },
+          "user_digg": 0,
+          "online_time": 1464325547,
+          "category_name": "来自世界的恶意",
+          "category_visible": true,
+          "bury_count": 16,
+          "is_anonymous": false,
+          "repin_count": 0,
+          "digg_count": 66,
+          "has_hot_comments": 0,
+          "allow_dislike": true,
+          "user_repin": 0,
+          "activity": {},
+          "group_id": 6616522575,
+          "category_id": 80
+        },
+        "comments": [],
+        "type": 1,
+        "display_time": 1464331989.92,
+        "online_time": 1464331989.92
+      },
+      {
+        "group": {
+          "text": "一个女人总被他酗酒的丈夫打，恨透了他。有一天，她扔酒瓶子时，居然从瓶子里飞出来一个天使。天使说：“你救了我，我可以实现你一个愿望！”女人说：“我要你杀了我丈夫！”天使道：“对不起，愿望只能作用到你身上！”女人道：“那好，让我成为寡妇！”天使：......",
+          "dislike_reason": [
+            {
+              "type": 1,
+              "id": 440,
+              "title": "内涵"
+            },
+            {
+              "type": 2,
+              "id": 1,
+              "title": "吧:内涵段子"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 5796630414,
+              "title": "作者:没背景老实人"
+            }
+          ],
+          "create_time": 1462243308,
+          "id": 6428191501,
+          "favorite_count": 682,
+          "go_detail_count": 27626,
+          "user_favorite": 0,
+          "share_type": 1,
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/6428191501/?iid=2767929313&app=joke_essay",
+          "label": 1,
+          "content": "一个女人总被他酗酒的丈夫打，恨透了他。有一天，她扔酒瓶子时，居然从瓶子里飞出来一个天使。天使说：“你救了我，我可以实现你一个愿望！”女人说：“我要你杀了我丈夫！”天使道：“对不起，愿望只能作用到你身上！”女人道：“那好，让我成为寡妇！”天使：......",
+          "comment_count": 469,
+          "id_str": "6428191501",
+          "media_type": 0,
+          "share_count": 542,
+          "type": 3,
+          "status": 112,
+          "has_comments": 1,
+          "user_bury": 0,
+          "status_desc": "热门投稿",
+          "user": {
+            "user_id": 5796630414,
+            "name": "没背景老实人",
+            "followings": 1,
+            "ugc_count": 1,
+            "avatar_url": "http://p3.pstatp.com/thumb/412000d1bfe5879cf20",
+            "followers": 19,
+            "is_following": false,
+            "user_verified": false
+          },
+          "user_digg": 0,
+          "online_time": 1462243308,
+          "category_name": "内涵段子",
+          "category_visible": true,
+          "bury_count": 1222,
+          "is_anonymous": false,
+          "repin_count": 682,
+          "digg_count": 9698,
+          "has_hot_comments": 1,
+          "allow_dislike": true,
+          "user_repin": 0,
+          "activity": {},
+          "group_id": 6428191501,
+          "category_id": 1
+        },
+        "comments": [
+          {
+            "status": 5,
+            "user_profile_url": "",
+            "is_digg": 0,
+            "user_id": 6335944135,
+            "description": "粗人一个，长的不行",
+            "bury_count": 0,
+            "avatar_url": "http://p3.pstatp.com/thumb/4110007b7620055ae77",
+            "text": "从此，凯尔变成了伊芙琳。",
+            "comment_id": 6428250805,
+            "user_verified": false,
+            "digg_count": 14940,
+            "user_profile_image_url": "http://p3.pstatp.com/thumb/4110007b7620055ae77",
+            "platform_id": "feifei",
+            "platform": "feifei",
+            "create_time": 1462244159,
+            "user_digg": 0,
+            "group_id": 6428191501,
+            "user_name": "一头大头",
+            "id": 6428250805,
+            "user_bury": 0
+          }
+        ],
+        "type": 1,
+        "display_time": 1464331989.91,
+        "online_time": 1464331989.91
+      },
+      {
+        "group": {
+          "text": "总有人说我胸小，我能补充一下其实不是小是平吗？！……",
+          "dislike_reason": [
+            {
+              "type": 2,
+              "id": 80,
+              "title": "吧:来自世界的恶意"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 3130253934,
+              "title": "作者:内涵女神你秋姐"
+            }
+          ],
+          "create_time": 1464311669,
+          "id": 6615188543,
+          "favorite_count": 0,
+          "go_detail_count": 69,
+          "user_favorite": 0,
+          "share_type": 1,
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/6615188543/?iid=2767929313&app=joke_essay",
+          "label": 4,
+          "content": "总有人说我胸小，我能补充一下其实不是小是平吗？！……",
+          "comment_count": 10,
+          "id_str": "6615188543",
+          "media_type": 0,
+          "share_count": 11,
+          "type": 3,
+          "status": 102,
+          "has_comments": 0,
+          "user_bury": 0,
+          "status_desc": "已发表",
+          "user": {
+            "user_id": 3130253934,
+            "name": "内涵女神你秋姐",
+            "followings": 1,
+            "ugc_count": 296,
+            "avatar_url": "http://p2.pstatp.com/thumb/412001a6e8cc37e0fd7",
+            "followers": 11333,
+            "is_following": false,
+            "user_verified": false
+          },
+          "user_digg": 0,
+          "online_time": 1464311669,
+          "category_name": "来自世界的恶意",
+          "category_visible": true,
+          "bury_count": 13,
+          "is_anonymous": false,
+          "repin_count": 0,
+          "digg_count": 85,
+          "has_hot_comments": 0,
+          "allow_dislike": true,
+          "user_repin": 0,
+          "activity": {},
+          "group_id": 6615188543,
+          "category_id": 80
+        },
+        "comments": [],
+        "type": 1,
+        "display_time": 1464331989.9,
+        "online_time": 1464331989.9
+      },
+      {
+        "group": {
+          "text": "只要胆子大，元旦放假放到除夕。",
+          "dislike_reason": [
+            {
+              "type": 2,
+              "id": 1,
+              "title": "吧:内涵段子"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 6598537424,
+              "title": "作者:陌98533071"
+            }
+          ],
+          "create_time": 1464261179,
+          "id": 6611078634,
+          "favorite_count": 0,
+          "go_detail_count": 372,
+          "user_favorite": 0,
+          "share_type": 1,
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/6611078634/?iid=2767929313&app=joke_essay",
+          "label": 4,
+          "content": "只要胆子大，元旦放假放到除夕。",
+          "comment_count": 27,
+          "id_str": "6611078634",
+          "media_type": 0,
+          "share_count": 28,
+          "type": 3,
+          "status": 102,
+          "has_comments": 0,
+          "user_bury": 0,
+          "status_desc": "已发表",
+          "user": {
+            "user_id": 6598537424,
+            "name": "陌98533071",
+            "followings": 0,
+            "ugc_count": 1,
+            "avatar_url": "http://wx.qlogo.cn/mmopen/ajNVdqHZLLCUpJk5nR7SAvI1obicgFvc9OiaKJsice1ypDx2gAKI5XCB9ErMkRTNQBgeznr5qOwYQX1y22vNyC4Fg/46",
+            "followers": 0,
+            "is_following": false,
+            "user_verified": false
+          },
+          "user_digg": 0,
+          "online_time": 1464261179,
+          "category_name": "内涵段子",
+          "category_visible": true,
+          "bury_count": 38,
+          "is_anonymous": false,
+          "repin_count": 0,
+          "digg_count": 88,
+          "has_hot_comments": 0,
+          "allow_dislike": true,
+          "user_repin": 0,
+          "activity": {},
+          "group_id": 6611078634,
+          "category_id": 1
+        },
+        "comments": [],
+        "type": 1,
+        "display_time": 1464331989.89,
+        "online_time": 1464331989.89
+      },
+      {
+        "group": {
+          "text": "准备上厕所大号，检查了一下，手机，烟，打火机，都带齐了。在厕所抽着烟刷着段子，完事了之后发现好像少带了一样更重要的东西，不说了，洗手了",
+          "dislike_reason": [
+            {
+              "type": 1,
+              "id": 302,
+              "title": "糗人糗事"
+            },
+            {
+              "type": 2,
+              "id": 1,
+              "title": "吧:内涵段子"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 3293349010,
+              "title": "作者:不要做个冒失鬼q"
+            }
+          ],
+          "create_time": 1461809997,
+          "id": 6391787861,
+          "favorite_count": 505,
+          "go_detail_count": 12354,
+          "user_favorite": 0,
+          "share_type": 1,
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/6391787861/?iid=2767929313&app=joke_essay",
+          "label": 1,
+          "content": "准备上厕所大号，检查了一下，手机，烟，打火机，都带齐了。在厕所抽着烟刷着段子，完事了之后发现好像少带了一样更重要的东西，不说了，洗手了",
+          "comment_count": 1004,
+          "id_str": "6391787861",
+          "media_type": 0,
+          "share_count": 1125,
+          "type": 3,
+          "status": 112,
+          "has_comments": 1,
+          "user_bury": 0,
+          "status_desc": "热门投稿",
+          "user": {
+            "user_id": 3293349010,
+            "name": "不要做个冒失鬼q",
+            "followings": 6,
+            "ugc_count": 5,
+            "avatar_url": "http://p2.pstatp.com/thumb/14f00017d886cc5e022",
+            "followers": 9,
+            "is_following": false,
+            "user_verified": false
+          },
+          "user_digg": 0,
+          "online_time": 1461809997,
+          "category_name": "内涵段子",
+          "category_visible": true,
+          "bury_count": 1591,
+          "is_anonymous": false,
+          "repin_count": 505,
+          "digg_count": 8761,
+          "has_hot_comments": 1,
+          "allow_dislike": true,
+          "user_repin": 0,
+          "activity": {},
+          "group_id": 6391787861,
+          "category_id": 1
+        },
+        "comments": [
+          {
+            "status": 5,
+            "user_profile_url": "",
+            "is_digg": 0,
+            "user_id": 5556987593,
+            "description": "",
+            "bury_count": 1,
+            "avatar_url": "http://q.qlogo.cn/qqapp/100290348/D0D45839B3DA2E504203741899340B98/40",
+            "text": "忘记带碗筷了吧",
+            "comment_id": 6392484475,
+            "user_verified": false,
+            "digg_count": 16184,
+            "user_profile_image_url": "http://q.qlogo.cn/qqapp/100290348/D0D45839B3DA2E504203741899340B98/40",
+            "platform_id": "feifei",
+            "platform": "feifei",
+            "create_time": 1461814678,
+            "user_digg": 0,
+            "group_id": 6391787861,
+            "user_name": "绝請o剑",
+            "id": 6392484475,
+            "user_bury": 0
+          }
+        ],
+        "type": 1,
+        "display_time": 1464331989.88,
+        "online_time": 1464331989.88
+      },
+      {
+        "group": {
+          "text": "隔壁小李老是找我借东西，借了又不还，每次我是我自己去他屋里要，今天他把他家钥匙给我了？！……",
+          "dislike_reason": [
+            {
+              "type": 2,
+              "id": 80,
+              "title": "吧:来自世界的恶意"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 3130253934,
+              "title": "作者:内涵女神你秋姐"
+            }
+          ],
+          "create_time": 1464311724,
+          "id": 6614608479,
+          "favorite_count": 0,
+          "go_detail_count": 72,
+          "user_favorite": 0,
+          "share_type": 1,
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/6614608479/?iid=2767929313&app=joke_essay",
+          "label": 4,
+          "content": "隔壁小李老是找我借东西，借了又不还，每次我是我自己去他屋里要，今天他把他家钥匙给我了？！……",
+          "comment_count": 6,
+          "id_str": "6614608479",
+          "media_type": 0,
+          "share_count": 7,
+          "type": 3,
+          "status": 110,
+          "has_comments": 0,
+          "user_bury": 0,
+          "status_desc": "已发表",
+          "user": {
+            "user_id": 3130253934,
+            "name": "内涵女神你秋姐",
+            "followings": 1,
+            "ugc_count": 296,
+            "avatar_url": "http://p2.pstatp.com/thumb/412001a6e8cc37e0fd7",
+            "followers": 11333,
+            "is_following": false,
+            "user_verified": false
+          },
+          "user_digg": 0,
+          "online_time": 1464311724,
+          "category_name": "来自世界的恶意",
+          "category_visible": true,
+          "bury_count": 18,
+          "is_anonymous": false,
+          "repin_count": 0,
+          "digg_count": 94,
+          "has_hot_comments": 0,
+          "allow_dislike": true,
+          "user_repin": 0,
+          "activity": {},
+          "group_id": 6614608479,
+          "category_id": 80
+        },
+        "comments": [],
+        "type": 1,
+        "display_time": 1464331989.8700001,
+        "online_time": 1464331989.8700001
+      },
+      {
+        "group": {
+          "text": "一天课堂上老师问：“小朋友们，什么动物最脏啊？”\n小红：“蚯蚓。”\n小穆：“屎壳郎。”\n小明：“女生。”\n老师不解地问：“为什么？”\n小明看了看小红，说：“因为我重来没见过她们洗澡。”",
+          "dislike_reason": [
+            {
+              "type": 1,
+              "id": 336,
+              "title": "神一样的结局"
+            },
+            {
+              "type": 2,
+              "id": 1,
+              "title": "吧:内涵段子"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 6234912622,
+              "title": "作者:起个名字真心难灬"
+            }
+          ],
+          "create_time": 1462695863,
+          "id": 6479671824,
+          "favorite_count": 543,
+          "go_detail_count": 7224,
+          "user_favorite": 0,
+          "share_type": 1,
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/6479671824/?iid=2767929313&app=joke_essay",
+          "label": 1,
+          "content": "一天课堂上老师问：“小朋友们，什么动物最脏啊？”\n小红：“蚯蚓。”\n小穆：“屎壳郎。”\n小明：“女生。”\n老师不解地问：“为什么？”\n小明看了看小红，说：“因为我重来没见过她们洗澡。”",
+          "comment_count": 354,
+          "id_str": "6479671824",
+          "media_type": 0,
+          "share_count": 528,
+          "type": 3,
+          "status": 112,
+          "has_comments": 1,
+          "user_bury": 0,
+          "status_desc": "热门投稿",
+          "user": {
+            "user_id": 6234912622,
+            "name": "起个名字真心难灬",
+            "followings": 0,
+            "ugc_count": 3,
+            "avatar_url": "http://wx.qlogo.cn/mmopen/4elbQCnSaLLYfAn8MbtW26BKNw9JibPdyyl7nebEGK0919xkwufIJB96khWrxbhkozPbicLyej38vEH4dGvibbmQt6tsiaZUbhbV/46",
+            "followers": 6,
+            "is_following": false,
+            "user_verified": false
+          },
+          "user_digg": 0,
+          "online_time": 1462695863,
+          "category_name": "内涵段子",
+          "category_visible": true,
+          "bury_count": 902,
+          "is_anonymous": false,
+          "repin_count": 543,
+          "digg_count": 5819,
+          "has_hot_comments": 1,
+          "allow_dislike": true,
+          "user_repin": 0,
+          "activity": {},
+          "group_id": 6479671824,
+          "category_id": 1
+        },
+        "comments": [
+          {
+            "status": 5,
+            "user_profile_url": "",
+            "is_digg": 0,
+            "user_id": 4600313174,
+            "description": "",
+            "bury_count": 0,
+            "avatar_url": "http://p3.pstatp.com/thumb/2b700232d755ae67882",
+            "text": "说的你好像见过屎壳郎洗澡似的",
+            "comment_id": 6480140337,
+            "user_verified": false,
+            "digg_count": 6095,
+            "user_profile_image_url": "http://p3.pstatp.com/thumb/2b700232d755ae67882",
+            "platform_id": "feifei",
+            "platform": "feifei",
+            "create_time": 1462698872,
+            "user_digg": 0,
+            "group_id": 6479671824,
+            "user_name": "带孩子先走啊",
+            "id": 6480140337,
+            "user_bury": 0
+          }
+        ],
+        "type": 1,
+        "display_time": 1464331989.8600001,
+        "online_time": 1464331989.8600001
+      },
+      {
+        "group": {
+          "text": "越看鹿晗越像娘炮，各种不喜欢",
+          "dislike_reason": [
+            {
+              "type": 2,
+              "id": 1,
+              "title": "吧:内涵段子"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 5,
+              "id": 0,
+              "title": "作者:匿名"
+            }
+          ],
+          "create_time": 1464249192,
+          "id": 6610165976,
+          "favorite_count": 0,
+          "go_detail_count": 136,
+          "user_favorite": 0,
+          "share_type": 1,
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/6610165976/?iid=2767929313&app=joke_essay",
+          "label": 4,
+          "content": "越看鹿晗越像娘炮，各种不喜欢",
+          "comment_count": 7,
+          "id_str": "6610165976",
+          "media_type": 0,
+          "share_count": 8,
+          "type": 3,
+          "status": 102,
+          "has_comments": 0,
+          "user_bury": 0,
+          "status_desc": "已发表",
+          "user": {
+            "user_id": -1,
+            "name": "匿名用户",
+            "followings": 0,
+            "ugc_count": 0,
+            "avatar_url": "http://mat1.gtimg.com/www/mb/images/head_50.jpg",
+            "followers": 0,
+            "is_following": false,
+            "user_verified": false
+          },
+          "user_digg": 0,
+          "online_time": 1464249192,
+          "category_name": "内涵段子",
+          "category_visible": true,
+          "bury_count": 41,
+          "is_anonymous": true,
+          "repin_count": 0,
+          "digg_count": 110,
+          "has_hot_comments": 0,
+          "allow_dislike": true,
+          "user_repin": 0,
+          "activity": {},
+          "group_id": 6610165976,
+          "category_id": 1
+        },
+        "comments": [],
+        "type": 1,
+        "display_time": 1464331989.8500001,
+        "online_time": 1464331989.8500001
+      },
+      {
+        "group": {
+          "text": ":帅哥，能帮忙擦一下防晒油吗，背上自己擦不到~\n:对不起，我手有点小。",
+          "dislike_reason": [
+            {
+              "type": 2,
+              "id": 80,
+              "title": "吧:来自世界的恶意"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 6022934871,
+              "title": "作者:宝贝煦阳"
+            }
+          ],
+          "create_time": 1463016698,
+          "id": 6507776924,
+          "favorite_count": 0,
+          "go_detail_count": 271,
+          "user_favorite": 0,
+          "share_type": 1,
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/6507776924/?iid=2767929313&app=joke_essay",
+          "label": 4,
+          "content": ":帅哥，能帮忙擦一下防晒油吗，背上自己擦不到~\n:对不起，我手有点小。",
+          "comment_count": 6,
+          "id_str": "6507776924",
+          "media_type": 0,
+          "share_count": 7,
+          "type": 3,
+          "status": 103,
+          "has_comments": 0,
+          "user_bury": 0,
+          "status_desc": "已发表",
+          "user": {
+            "user_id": 6022934871,
+            "name": "宝贝煦阳",
+            "followings": 7,
+            "ugc_count": 212,
+            "avatar_url": "http://p3.pstatp.com/thumb/411000ae7e2b2c48f6e",
+            "followers": 347,
+            "is_following": false,
+            "user_verified": false
+          },
+          "user_digg": 0,
+          "online_time": 1463016698,
+          "category_name": "来自世界的恶意",
+          "category_visible": true,
+          "bury_count": 12,
+          "is_anonymous": false,
+          "repin_count": 0,
+          "digg_count": 122,
+          "has_hot_comments": 0,
+          "allow_dislike": true,
+          "user_repin": 0,
+          "activity": {},
+          "group_id": 6507776924,
+          "category_id": 80
+        },
+        "comments": [],
+        "type": 1,
+        "display_time": 1464331989.8400002,
+        "online_time": 1464331989.8400002
+      },
+      {
+        "group": {
+          "text": "有一天李白逃学出去玩。途中遇到了一个老奶奶，老奶奶手中磨着一根铁杆，李白走了过去：老奶奶你在干嘛？老奶奶：我在磨铁杆啊！李白：为什么要磨铁杆？老奶奶：年纪大了，受不了啊！",
+          "dislike_reason": [
+            {
+              "type": 1,
+              "id": 319,
+              "title": "恶搞"
+            },
+            {
+              "type": 1,
+              "id": 440,
+              "title": "内涵"
+            },
+            {
+              "type": 2,
+              "id": 1,
+              "title": "吧:内涵段子"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 5785596826,
+              "title": "作者:丁丁只有网名一半长"
+            }
+          ],
+          "create_time": 1462679951,
+          "id": 6478198512,
+          "favorite_count": 848,
+          "go_detail_count": 18448,
+          "user_favorite": 0,
+          "share_type": 1,
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/6478198512/?iid=2767929313&app=joke_essay",
+          "label": 1,
+          "content": "有一天李白逃学出去玩。途中遇到了一个老奶奶，老奶奶手中磨着一根铁杆，李白走了过去：老奶奶你在干嘛？老奶奶：我在磨铁杆啊！李白：为什么要磨铁杆？老奶奶：年纪大了，受不了啊！",
+          "comment_count": 611,
+          "id_str": "6478198512",
+          "media_type": 0,
+          "share_count": 925,
+          "type": 3,
+          "status": 112,
+          "has_comments": 1,
+          "user_bury": 0,
+          "status_desc": "热门投稿",
+          "user": {
+            "user_id": 5785596826,
+            "name": "丁丁只有网名一半长",
+            "followings": 46,
+            "ugc_count": 11,
+            "avatar_url": "http://p2.pstatp.com/thumb/4120014c7358e32e447",
+            "followers": 16,
+            "is_following": false,
+            "user_verified": false
+          },
+          "user_digg": 0,
+          "online_time": 1462679951,
+          "category_name": "内涵段子",
+          "category_visible": true,
+          "bury_count": 1765,
+          "is_anonymous": false,
+          "repin_count": 848,
+          "digg_count": 9361,
+          "has_hot_comments": 1,
+          "allow_dislike": true,
+          "user_repin": 0,
+          "activity": {},
+          "group_id": 6478198512,
+          "category_id": 1
+        },
+        "comments": [
+          {
+            "status": 5,
+            "user_profile_url": "",
+            "is_digg": 0,
+            "user_id": 3789652035,
+            "description": "孤舟“唆”笠翁，独钓“含”江雪",
+            "bury_count": 1,
+            "avatar_url": "http://p2.pstatp.com/thumb/2b6000705ffc0271cb3",
+            "text": "李白:为什么要磨铁杆？老奶奶:我要扎死紫薇那小婊砸",
+            "comment_id": 6478515935,
+            "user_verified": false,
+            "digg_count": 10608,
+            "user_profile_image_url": "http://p2.pstatp.com/thumb/2b6000705ffc0271cb3",
+            "platform_id": "feifei",
+            "platform": "feifei",
+            "create_time": 1462682121,
+            "user_digg": 0,
+            "group_id": 6478198512,
+            "user_name": "奥特曼拉二胡",
+            "id": 6478515935,
+            "user_bury": 0
+          }
+        ],
+        "type": 1,
+        "display_time": 1464331989.8300002,
+        "online_time": 1464331989.8300002
+      },
+      {
+        "group": {
+          "text": "　我哥们结婚的时候我问他：哥们结了婚打算以后怎么过啊？\n　　哥们：我打算找一个只有我和我媳妇两个人的地方过一辈子，然后生一大堆孩子！\n　　我：哇，不错嘛！这么浪漫的方法也想的到！\n　　哥们：不是浪漫不浪漫的问题，我只想确定孩子是自己的！",
+          "dislike_reason": [
+            {
+              "type": 1,
+              "id": 336,
+              "title": "神一样的结局"
+            },
+            {
+              "type": 2,
+              "id": 1,
+              "title": "吧:内涵段子"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 5761523124,
+              "title": "作者:111飞鱼"
+            }
+          ],
+          "create_time": 1463632340,
+          "id": 6564592983,
+          "favorite_count": 193,
+          "go_detail_count": 2277,
+          "user_favorite": 0,
+          "share_type": 1,
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/6564592983/?iid=2767929313&app=joke_essay",
+          "label": 1,
+          "content": "　我哥们结婚的时候我问他：哥们结了婚打算以后怎么过啊？\n　　哥们：我打算找一个只有我和我媳妇两个人的地方过一辈子，然后生一大堆孩子！\n　　我：哇，不错嘛！这么浪漫的方法也想的到！\n　　哥们：不是浪漫不浪漫的问题，我只想确定孩子是自己的！",
+          "comment_count": 606,
+          "id_str": "6564592983",
+          "media_type": 0,
+          "share_count": 745,
+          "type": 3,
+          "status": 112,
+          "has_comments": 1,
+          "user_bury": 0,
+          "status_desc": "热门投稿",
+          "user": {
+            "user_id": 5761523124,
+            "name": "111飞鱼",
+            "followings": 1,
+            "ugc_count": 1,
+            "avatar_url": "http://mat1.gtimg.com/www/mb/images/head_50.jpg",
+            "followers": 80,
+            "is_following": false,
+            "user_verified": false
+          },
+          "user_digg": 0,
+          "online_time": 1463632340,
+          "category_name": "内涵段子",
+          "category_visible": true,
+          "bury_count": 750,
+          "is_anonymous": false,
+          "repin_count": 193,
+          "digg_count": 3966,
+          "has_hot_comments": 1,
+          "allow_dislike": true,
+          "user_repin": 0,
+          "activity": {},
+          "group_id": 6564592983,
+          "category_id": 1
+        },
+        "comments": [
+          {
+            "status": 5,
+            "user_profile_url": "",
+            "is_digg": 0,
+            "user_id": 5968722228,
+            "description": "",
+            "bury_count": 1,
+            "avatar_url": "http://wx.qlogo.cn/mmopen/NKkTUbVKQ0vpib52elyzpeNOK8QeXU8CHLHn1ljjVLuAGT6dt7J8qurko4IYDeQ9cxGnS8v6GzgdSbhzlFatjGWHGD2LVWxPs/46",
+            "text": "那你还不提前两个月看地方去，眼瞅着肚子就大起来了。",
+            "comment_id": 6569214663,
+            "user_verified": false,
+            "digg_count": 2563,
+            "user_profile_image_url": "http://wx.qlogo.cn/mmopen/NKkTUbVKQ0vpib52elyzpeNOK8QeXU8CHLHn1ljjVLuAGT6dt7J8qurko4IYDeQ9cxGnS8v6GzgdSbhzlFatjGWHGD2LVWxPs/46",
+            "platform_id": "feifei",
+            "platform": "feifei",
+            "create_time": 1463670474,
+            "user_digg": 0,
+            "group_id": 6564592983,
+            "user_name": "悟空73542561",
+            "id": 6569214663,
+            "user_bury": 0
+          }
+        ],
+        "type": 1,
+        "display_time": 1464331989.8200002,
+        "online_time": 1464331989.8200002
+      },
+      {
+        "group": {
+          "text": "今天和室友去打水 回去的路上暖瓶吱吱的响 我说:“不好 可能要炸了”哥们嗖的一下就把暖瓶扔了出去 嘭的一声 暖瓶果然炸了 然后他心有余悸的说: 还好我反应快 要不就炸到你了",
+          "dislike_reason": [
+            {
+              "type": 1,
+              "id": 302,
+              "title": "糗人糗事"
+            },
+            {
+              "type": 2,
+              "id": 1,
+              "title": "吧:内涵段子"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 3123049005,
+              "title": "作者:一遇千寻"
+            }
+          ],
+          "create_time": 1462858639,
+          "id": 6494731991,
+          "favorite_count": 452,
+          "go_detail_count": 10091,
+          "user_favorite": 0,
+          "share_type": 1,
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/6494731991/?iid=2767929313&app=joke_essay",
+          "label": 1,
+          "content": "今天和室友去打水 回去的路上暖瓶吱吱的响 我说:“不好 可能要炸了”哥们嗖的一下就把暖瓶扔了出去 嘭的一声 暖瓶果然炸了 然后他心有余悸的说: 还好我反应快 要不就炸到你了",
+          "comment_count": 146,
+          "id_str": "6494731991",
+          "media_type": 0,
+          "share_count": 291,
+          "type": 3,
+          "status": 112,
+          "has_comments": 1,
+          "user_bury": 0,
+          "status_desc": "热门投稿",
+          "user": {
+            "user_id": 3123049005,
+            "name": "一遇千寻",
+            "followings": 0,
+            "ugc_count": 1,
+            "avatar_url": "http://p3.pstatp.com/thumb/1455/260131829",
+            "followers": 4,
+            "is_following": false,
+            "user_verified": false
+          },
+          "user_digg": 0,
+          "online_time": 1462858639,
+          "category_name": "内涵段子",
+          "category_visible": true,
+          "bury_count": 697,
+          "is_anonymous": false,
+          "repin_count": 452,
+          "digg_count": 5310,
+          "has_hot_comments": 1,
+          "allow_dislike": true,
+          "user_repin": 0,
+          "activity": {},
+          "group_id": 6494731991,
+          "category_id": 1
+        },
+        "comments": [
+          {
+            "status": 5,
+            "user_profile_url": "",
+            "is_digg": 0,
+            "user_id": 3489055264,
+            "description": "",
+            "bury_count": 0,
+            "avatar_url": "http://p3.pstatp.com/thumb/1238/682362039",
+            "text": "楼主已经逐渐的把你室友的智商拉到和你同一水平线了",
+            "comment_id": 6495007576,
+            "user_verified": false,
+            "digg_count": 5547,
+            "user_profile_image_url": "http://p3.pstatp.com/thumb/1238/682362039",
+            "platform_id": "feifei",
+            "platform": "feifei",
+            "create_time": 1462861249,
+            "user_digg": 0,
+            "group_id": 6494731991,
+            "user_name": "有幸遇见丨",
+            "id": 6495007576,
+            "user_bury": 0
+          }
+        ],
+        "type": 1,
+        "display_time": 1464331989.8100002,
+        "online_time": 1464331989.8100002
+      }
+    ]
+  }
+}
